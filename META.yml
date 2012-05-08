@@ -1,17 +1,22 @@
 ---
-name: Bundle-MetaSyntactic
-version: 1.01
+abstract: 'All Acme::MetaSyntactic themes'
 author:
-  - 'Philippe Bruhat (BooK), <book@cpan.org>'
-abstract: All Acme::MetaSyntactic themes
+  - 'Philippe Bruhat (BooK) <book@cpan.org>'
+build_requires: {}
+configure_requires:
+  Module::Build: 0.38
+dynamic_config: 1
+generated_by: 'Module::Build version 0.38, CPAN::Meta::Converter version 2.110930'
 license: perl
-resources:
-  license: http://dev.perl.org/licenses/
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Bundle-MetaSyntactic
 provides:
   Bundle::MetaSyntactic:
     file: lib/Bundle/MetaSyntactic.pm
-    version: 1.01
-generated_by: Module::Build version 0.2808
-meta-spec:
-  url: http://module-build.sourceforge.net/META-spec-v1.2.html
-  version: 1.2
+    version: 1.020
+resources:
+  license: http://dev.perl.org/licenses/
+  repository: http://github.com/book/Bundle-MetaSyntactic
+version: 1.020
