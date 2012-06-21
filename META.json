@@ -23,7 +23,7 @@
    "provides" : {
       "Bundle::MetaSyntactic" : {
          "file" : "lib/Bundle/MetaSyntactic.pm",
-         "version" : "1.021"
+         "version" : "1.022"
       }
    },
    "release_status" : "stable",
@@ -35,5 +35,5 @@
          "url" : "http://github.com/book/Bundle-MetaSyntactic"
       }
    },
-   "version" : "1.021"
+   "version" : "1.022"
 }
