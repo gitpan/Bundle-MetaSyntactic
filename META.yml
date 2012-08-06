@@ -15,8 +15,8 @@ name: Bundle-MetaSyntactic
 provides:
   Bundle::MetaSyntactic:
     file: lib/Bundle/MetaSyntactic.pm
-    version: 1.022
+    version: 1.023
 resources:
   license: http://dev.perl.org/licenses/
   repository: http://github.com/book/Bundle-MetaSyntactic
-version: 1.022
+version: 1.023
