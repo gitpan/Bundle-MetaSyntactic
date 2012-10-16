@@ -1,6 +1,6 @@
 package Bundle::MetaSyntactic;
 
-our $VERSION = '1.024';
+our $VERSION = '1.025';
 
 'whack_eth';
 
@@ -55,9 +55,11 @@ Acme::MetaSyntactic::daleks - EXTERMINATE! EXTERMINATE! EXTERMINATE! (SAPER)
 
 Acme::MetaSyntactic::errno - The Errno theme (BOOK)
 
-Acme::MetaSyntactic::soviet - NATO codenames for Soviet-designed equipment (JFORGET)
+Acme::MetaSyntactic::morning_musume - The Mumusu theme (ELBEHO)
 
 Acme::MetaSyntactic::nethack - The largest time waster in the world of *nix (ELLIOTJS)
+
+Acme::MetaSyntactic::soviet - NATO codenames for Soviet-designed equipment (JFORGET)
 
 Acme::MetaSyntactic::vim - The vim theme (ELLIOTJS)
 
