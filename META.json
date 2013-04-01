@@ -4,7 +4,7 @@
       "Philippe Bruhat (BooK) <book@cpan.org>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "Module::Build version 0.38, CPAN::Meta::Converter version 2.112621",
+   "generated_by" : "Module::Build version 0.38, CPAN::Meta::Converter version 2.120921",
    "license" : [
       "perl_5"
    ],
@@ -23,7 +23,7 @@
    "provides" : {
       "Bundle::MetaSyntactic" : {
          "file" : "lib/Bundle/MetaSyntactic.pm",
-         "version" : "1.025"
+         "version" : "1.026"
       }
    },
    "release_status" : "stable",
@@ -35,5 +35,5 @@
          "url" : "http://github.com/book/Bundle-MetaSyntactic"
       }
    },
-   "version" : "1.025"
+   "version" : "1.026"
 }

@@ -1,6 +1,6 @@
 package Bundle::MetaSyntactic;
 
-our $VERSION = '1.025';
+our $VERSION = '1.026';
 
 'whack_eth';
 
@@ -43,9 +43,9 @@ L<Acme::MetaSyntactic> themes, in a single command (see the L<SYNOPSIS>).
 
 =head1 CONTENTS
 
-Acme::MetaSyntactic 1.000 - Themed metasyntactic variables names
+Acme::MetaSyntactic - Themed metasyntactic variables names
 
-Acme::MetaSyntactic::Themes 1.000 - The original Acme::MetaSyntactic themes
+Acme::MetaSyntactic::Themes - The original Acme::MetaSyntactic themes
 
 Acme::MetaSyntactic::Themes::Abigail - More themes by Abigail (ABIGAIL)
 
@@ -53,7 +53,19 @@ Acme::MetaSyntactic::buzzwords - Pointy-haired boss lingo (JQUELIN)
 
 Acme::MetaSyntactic::daleks - EXTERMINATE! EXTERMINATE! EXTERMINATE! (SAPER)
 
+Acme::MetaSyntactic::dune - For he is the Kwisatz Haderach! (MCARTMELL)
+
 Acme::MetaSyntactic::errno - The Errno theme (BOOK)
+
+Acme::MetaSyntactic::legobatman - LEGO Batman theme (BINGOS)
+
+Acme::MetaSyntactic::legoharrypotter - LEGO Harry Potter theme (BINGOS)
+
+Acme::MetaSyntactic::legoindianajones - LEGO Indiana Jones theme (BINGOS)
+
+Acme::MetaSyntactic::legolotr - LEGO Lord of the Rings theme (BINGOS)
+
+Acme::MetaSyntactic::legopiratesofthecaribbean - LEGO Pirates of the Caribbean theme (BINGOS)
 
 Acme::MetaSyntactic::morning_musume - The Mumusu theme (ELBEHO)
 
@@ -69,7 +81,7 @@ Philippe Bruhat (BooK), <book@cpan.org>
 
 =head1 COPYRIGHT
 
-Copyright 2005-2012 Philippe Bruhat (BooK), All Rights Reserved.
+Copyright 2005-2013 Philippe Bruhat (BooK), All Rights Reserved.
 
 =head1 LICENSE
 
